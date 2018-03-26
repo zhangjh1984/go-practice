@@ -1,0 +1,8 @@
+filePath=E:/
+test=test
+user=admin
+password=admin
+db.url=127.0.0.1
+db.user=root
+db.password=jhzhang
+db.dbname=res-db
